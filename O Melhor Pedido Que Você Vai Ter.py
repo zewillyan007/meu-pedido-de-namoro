@@ -27,4 +27,4 @@ else:
         print('Oxi, então por que você não aceitou? Sua palhaça!')
     else:
         print(    )
-        print('Não foi dessa vez, mas eu vou tentar melhorar. Até mais!')
+        print('Não foi dessa vez, mas eu vou tentar melhorar.')
